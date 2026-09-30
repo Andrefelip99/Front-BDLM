@@ -3,7 +3,6 @@
 Aplicação administrativa em Vue 3, Vite e Vue Router. A interface consome a API definida por `VITE_API_URL`, com padrão em `https://bolodelamadre.onrender.com`.
 
 ## Executar
-
 ```sh
 npm install
 npm run dev
